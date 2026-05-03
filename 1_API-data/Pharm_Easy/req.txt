@@ -1,0 +1,27 @@
+4.1 Product-Level Fields
+Product Name
+Brand Name
+Price (MRP & Discounted Price)
+Discount Percentage
+Product Description
+Product Image URL
+Product Category
+Sub-category
+Product Rating
+Number of Reviews
+Availability Status (In stock / Out of stock)
+
+4.2 Additional Fields
+SKU / Product ID
+Pack Size (e.g., 100ml, 10 tablets)
+Ingredients / Composition
+Usage Instructions
+Manufacturer Name
+Expiry Information
+Delivery Time
+
+4.3 Platform-Level Fields
+Category Name
+Total Number of Products
+Pagination (Page number)
+Filters (Price range, brands, etc.)
