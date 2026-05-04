@@ -1,0 +1,12 @@
+Field Name
+product_id
+title
+category_name
+price
+condition
+region
+seller_id
+promoted
+image_url
+listing_url
+created_status

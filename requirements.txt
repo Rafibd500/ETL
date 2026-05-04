@@ -1,0 +1,314 @@
+requests
+pandas
+setuptools
+undetected_chromedriver 
+National Healthcare Network, Ibrahim General Hospital, Mirpur
+Dr. Azmal Hospital
+Islami Bank Hospital Mirpur
+Aalok Hospital Ltd.
+Mirpur General Hospital & Diagnostic Centre
+Aalok Health Care & Hospital Ltd. ( Main Branch )
+Al Helal Specialized Hospital, Dhaka
+Delta Health Care, Mirpur Limited
+Ash-Shafi Hospital
+Mirpur Holy Crescent Hospital (Pvt.) Ltd.
+National Healthcare Network, Ibrahim General Hospital, Mirpur
+Dr. Azmal Hospital
+Islami Bank Hospital Mirpur
+Aalok Hospital Ltd.
+Mirpur General Hospital & Diagnostic Centre
+Aalok Health Care & Hospital Ltd. ( Main Branch )
+Al Helal Specialized Hospital, Dhaka
+Delta Health Care, Mirpur Limited
+Ash-Shafi Hospital
+Mirpur Holy Crescent Hospital (Pvt.) Ltd.
+Mirpur General Hospital
+M General Hospital and Diagnostic Center
+Ahsania Mission Cancer & General Hospital, Mirpur
+Popular Diagnostic Center Unit- 01
+OGSB Hospital (Mirpur - 1)
+Delta Hospital Limited
+Islami Bank Hospital & Cardiac Centre Mirpur
+Bangladesh Eye Hospital, Mirpur
+Dr. Amanat Khan Hospital and Diagnostic Center
+Aalok Healthcare Ltd. (Pallabi)
+National Healthcare Network, Ibrahim General Hospital, Mirpur
+Dr. Azmal Hospital
+Islami Bank Hospital Mirpur
+Aalok Hospital Ltd.
+Mirpur General Hospital & Diagnostic Centre
+Aalok Health Care & Hospital Ltd. ( Main Branch )
+Al Helal Specialized Hospital, Dhaka
+Delta Health Care, Mirpur Limited
+Ash-Shafi Hospital
+Mirpur Holy Crescent Hospital (Pvt.) Ltd.
+Mirpur General Hospital
+M General Hospital and Diagnostic Center
+Ahsania Mission Cancer & General Hospital, Mirpur
+Popular Diagnostic Center Unit- 01
+OGSB Hospital (Mirpur - 1)
+Delta Hospital Limited
+Islami Bank Hospital & Cardiac Centre Mirpur
+Bangladesh Eye Hospital, Mirpur
+Dr. Amanat Khan Hospital and Diagnostic Center
+Aalok Healthcare Ltd. (Pallabi)
+Aalok Health Care Ltd. (Mirpur-1)
+Bangladesh Spine & Orthopaedic Hospital -BSOH
+Aalok Health Care Ltd.(Mirpur-14)
+Dhaka Eye Hospital
+Nutritionist Rashida Afroz
+Mirpur Health Care Diagnostic Center
+Delta Medical College & Hospital
+Mirpur General Hospital Pallabi
+Medinet Medical Services
+Anwer Khan Modern Medical College Hospital
+National Healthcare Network, Ibrahim General Hospital, Mirpur
+Dr. Azmal Hospital
+Islami Bank Hospital Mirpur
+Aalok Hospital Ltd.
+Mirpur General Hospital & Diagnostic Centre
+Aalok Health Care & Hospital Ltd. ( Main Branch )
+Al Helal Specialized Hospital, Dhaka
+Delta Health Care, Mirpur Limited
+Ash-Shafi Hospital
+Mirpur Holy Crescent Hospital (Pvt.) Ltd.
+Mirpur General Hospital
+M General Hospital and Diagnostic Center
+Ahsania Mission Cancer & General Hospital, Mirpur
+Popular Diagnostic Center Unit- 01
+OGSB Hospital (Mirpur - 1)
+Delta Hospital Limited
+Islami Bank Hospital & Cardiac Centre Mirpur
+Bangladesh Eye Hospital, Mirpur
+Dr. Amanat Khan Hospital and Diagnostic Center
+Aalok Healthcare Ltd. (Pallabi)
+Aalok Health Care Ltd. (Mirpur-1)
+Bangladesh Spine & Orthopaedic Hospital -BSOH
+Aalok Health Care Ltd.(Mirpur-14)
+Dhaka Eye Hospital
+Nutritionist Rashida Afroz
+Mirpur Health Care Diagnostic Center
+Delta Medical College & Hospital
+Mirpur General Hospital Pallabi
+Medinet Medical Services
+Anwer Khan Modern Medical College Hospital
+Alliance hospital limited
+Continental Hospital PLC
+Dhaka Dental College And Hospital
+Kurmitola General Hospital
+BIRDEM General Hospital
+Criticare Foundation of Bangladesh
+TG Hospital
+AL-MANAR HOSPITAL LTD.
+Central Hospital Limited
+Fatema Maa-o-Shishu General Hospital
+National Healthcare Network, Ibrahim General Hospital, Mirpur
+Dr. Azmal Hospital
+Islami Bank Hospital Mirpur
+Aalok Hospital Ltd.
+Mirpur General Hospital & Diagnostic Centre
+Aalok Health Care & Hospital Ltd. ( Main Branch )
+Al Helal Specialized Hospital, Dhaka
+Delta Health Care, Mirpur Limited
+Ash-Shafi Hospital
+Mirpur Holy Crescent Hospital (Pvt.) Ltd.
+Mirpur General Hospital
+M General Hospital and Diagnostic Center
+Ahsania Mission Cancer & General Hospital, Mirpur
+Popular Diagnostic Center Unit- 01
+OGSB Hospital (Mirpur - 1)
+Delta Hospital Limited
+Islami Bank Hospital & Cardiac Centre Mirpur
+Bangladesh Eye Hospital, Mirpur
+Dr. Amanat Khan Hospital and Diagnostic Center
+Aalok Healthcare Ltd. (Pallabi)
+Aalok Health Care Ltd. (Mirpur-1)
+Bangladesh Spine & Orthopaedic Hospital -BSOH
+Aalok Health Care Ltd.(Mirpur-14)
+Dhaka Eye Hospital
+Nutritionist Rashida Afroz
+Mirpur Health Care Diagnostic Center
+Delta Medical College & Hospital
+Mirpur General Hospital Pallabi
+Medinet Medical Services
+Anwer Khan Modern Medical College Hospital
+Alliance hospital limited
+Continental Hospital PLC
+Dhaka Dental College And Hospital
+Kurmitola General Hospital
+BIRDEM General Hospital
+Criticare Foundation of Bangladesh
+TG Hospital
+AL-MANAR HOSPITAL LTD.
+Central Hospital Limited
+Fatema Maa-o-Shishu General Hospital
+City Hospital & Diagnostic Center
+Prof Dr Asit Baran Adhikary
+National Healthcare Network, Ibrahim General Hospital, Mirpur
+Dr. Azmal Hospital
+Islami Bank Hospital Mirpur
+Aalok Hospital Ltd.
+Mirpur General Hospital & Diagnostic Centre
+Aalok Health Care & Hospital Ltd. ( Main Branch )
+Al Helal Specialized Hospital, Dhaka
+Delta Health Care, Mirpur Limited
+Ash-Shafi Hospital
+Mirpur Holy Crescent Hospital (Pvt.) Ltd.
+Mirpur General Hospital
+M General Hospital and Diagnostic Center
+Ahsania Mission Cancer & General Hospital, Mirpur
+Popular Diagnostic Center Unit- 01
+OGSB Hospital (Mirpur - 1)
+Delta Hospital Limited
+Islami Bank Hospital & Cardiac Centre Mirpur
+Bangladesh Eye Hospital, Mirpur
+Dr. Amanat Khan Hospital and Diagnostic Center
+Aalok Healthcare Ltd. (Pallabi)
+Aalok Health Care Ltd. (Mirpur-1)
+Bangladesh Spine & Orthopaedic Hospital -BSOH
+Aalok Health Care Ltd.(Mirpur-14)
+Dhaka Eye Hospital
+Nutritionist Rashida Afroz
+Mirpur Health Care Diagnostic Center
+Delta Medical College & Hospital
+Mirpur General Hospital Pallabi
+Medinet Medical Services
+Anwer Khan Modern Medical College Hospital
+Alliance hospital limited
+Continental Hospital PLC
+Dhaka Dental College And Hospital
+Kurmitola General Hospital
+BIRDEM General Hospital
+Criticare Foundation of Bangladesh
+TG Hospital
+AL-MANAR HOSPITAL LTD.
+Central Hospital Limited
+Fatema Maa-o-Shishu General Hospital
+City Hospital & Diagnostic Center
+Prof Dr Asit Baran Adhikary
+National Healthcare Network, Ibrahim General Hospital, Mirpur
+Dr. Azmal Hospital
+Islami Bank Hospital Mirpur
+Aalok Hospital Ltd.
+Mirpur General Hospital & Diagnostic Centre
+Aalok Health Care & Hospital Ltd. ( Main Branch )
+Al Helal Specialized Hospital, Dhaka
+Delta Health Care, Mirpur Limited
+Ash-Shafi Hospital
+Mirpur Holy Crescent Hospital (Pvt.) Ltd.
+Mirpur General Hospital
+M General Hospital and Diagnostic Center
+Ahsania Mission Cancer & General Hospital, Mirpur
+Popular Diagnostic Center Unit- 01
+OGSB Hospital (Mirpur - 1)
+Delta Hospital Limited
+Islami Bank Hospital & Cardiac Centre Mirpur
+Bangladesh Eye Hospital, Mirpur
+Dr. Amanat Khan Hospital and Diagnostic Center
+Aalok Healthcare Ltd. (Pallabi)
+Aalok Health Care Ltd. (Mirpur-1)
+Bangladesh Spine & Orthopaedic Hospital -BSOH
+Aalok Health Care Ltd.(Mirpur-14)
+Dhaka Eye Hospital
+Nutritionist Rashida Afroz
+Mirpur Health Care Diagnostic Center
+Delta Medical College & Hospital
+Mirpur General Hospital Pallabi
+Medinet Medical Services
+Anwer Khan Modern Medical College Hospital
+Alliance hospital limited
+Continental Hospital PLC
+Dhaka Dental College And Hospital
+Kurmitola General Hospital
+BIRDEM General Hospital
+Criticare Foundation of Bangladesh
+TG Hospital
+AL-MANAR HOSPITAL LTD.
+Central Hospital Limited
+Fatema Maa-o-Shishu General Hospital
+City Hospital & Diagnostic Center
+Prof Dr Asit Baran Adhikary
+National Healthcare Network, Ibrahim General Hospital, Mirpur
+Dr. Azmal Hospital
+Islami Bank Hospital Mirpur
+Aalok Hospital Ltd.
+Mirpur General Hospital & Diagnostic Centre
+Aalok Health Care & Hospital Ltd. ( Main Branch )
+Al Helal Specialized Hospital, Dhaka
+Delta Health Care, Mirpur Limited
+Ash-Shafi Hospital
+Mirpur Holy Crescent Hospital (Pvt.) Ltd.
+Mirpur General Hospital
+M General Hospital and Diagnostic Center
+Ahsania Mission Cancer & General Hospital, Mirpur
+Popular Diagnostic Center Unit- 01
+OGSB Hospital (Mirpur - 1)
+Delta Hospital Limited
+Islami Bank Hospital & Cardiac Centre Mirpur
+Bangladesh Eye Hospital, Mirpur
+Dr. Amanat Khan Hospital and Diagnostic Center
+Aalok Healthcare Ltd. (Pallabi)
+Aalok Health Care Ltd. (Mirpur-1)
+Bangladesh Spine & Orthopaedic Hospital -BSOH
+Aalok Health Care Ltd.(Mirpur-14)
+Dhaka Eye Hospital
+Nutritionist Rashida Afroz
+Mirpur Health Care Diagnostic Center
+Delta Medical College & Hospital
+Mirpur General Hospital Pallabi
+Medinet Medical Services
+Anwer Khan Modern Medical College Hospital
+Alliance hospital limited
+Continental Hospital PLC
+Dhaka Dental College And Hospital
+Kurmitola General Hospital
+BIRDEM General Hospital
+Criticare Foundation of Bangladesh
+TG Hospital
+AL-MANAR HOSPITAL LTD.
+Central Hospital Limited
+Fatema Maa-o-Shishu General Hospital
+City Hospital & Diagnostic Center
+Prof Dr Asit Baran Adhikary
+National Healthcare Network, Ibrahim General Hospital, Mirpur
+Dr. Azmal Hospital
+Islami Bank Hospital Mirpur
+Aalok Hospital Ltd.
+Mirpur General Hospital & Diagnostic Centre
+Aalok Health Care & Hospital Ltd. ( Main Branch )
+Al Helal Specialized Hospital, Dhaka
+Delta Health Care, Mirpur Limited
+Ash-Shafi Hospital
+Mirpur Holy Crescent Hospital (Pvt.) Ltd.
+Mirpur General Hospital
+M General Hospital and Diagnostic Center
+Ahsania Mission Cancer & General Hospital, Mirpur
+Popular Diagnostic Center Unit- 01
+OGSB Hospital (Mirpur - 1)
+Delta Hospital Limited
+Islami Bank Hospital & Cardiac Centre Mirpur
+Bangladesh Eye Hospital, Mirpur
+Dr. Amanat Khan Hospital and Diagnostic Center
+Aalok Healthcare Ltd. (Pallabi)
+Aalok Health Care Ltd. (Mirpur-1)
+Bangladesh Spine & Orthopaedic Hospital -BSOH
+Aalok Health Care Ltd.(Mirpur-14)
+Dhaka Eye Hospital
+Nutritionist Rashida Afroz
+Mirpur Health Care Diagnostic Center
+Delta Medical College & Hospital
+Mirpur General Hospital Pallabi
+Medinet Medical Services
+Anwer Khan Modern Medical College Hospital
+Alliance hospital limited
+Continental Hospital PLC
+Dhaka Dental College And Hospital
+Kurmitola General Hospital
+BIRDEM General Hospital
+Criticare Foundation of Bangladesh
+TG Hospital
+AL-MANAR HOSPITAL LTD.
+Central Hospital Limited
+Fatema Maa-o-Shishu General Hospital
+City Hospital & Diagnostic Center
+Prof Dr Asit Baran Adhikary

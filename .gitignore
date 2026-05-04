@@ -1,115 +1,59 @@
-# ---------------------------
+# =========================
 # Python
-# ---------------------------
+# =========================
 __pycache__/
 *.py[cod]
-*$py.class
 *.so
 .Python
-build/
-dist/
-develop-eggs/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
-.installed.cfg
-*.egg
-pip-wheel-metadata/
+dist/
+build/
 
-# ---------------------------
+# =========================
 # Virtual Environment
-# ---------------------------
+# =========================
 venv/
 .venv/
 env/
 ENV/
 
-# ---------------------------
-# Environment Variables / Secrets
-# ---------------------------
+# =========================
+# Environment Variables
+# =========================
 .env
 .env.*
-*.env
-secrets.json
-credentials.json
-config.local.*
 
-# ---------------------------
-# Jupyter / Notebook
-# ---------------------------
-.ipynb_checkpoints/
-*.nbconvert.ipynb
-
-# ---------------------------
-# Logs
-# ---------------------------
-logs/
-*.log
-*.out
-*.err
-
-# ---------------------------
-# ETL / Data Files
-# (keep raw/generated data out of git unless intentional)
-# ---------------------------
-data/
-datasets/
-raw_data/
-processed_data/
-exports/
-tmp/
-temp/
-cache/
-*.csv
-*.tsv
-*.xlsx
-*.xls
-*.parquet
-*.feather
-*.jsonl
-*.sqlite
-*.db
-
-# ---------------------------
-# OS Files
-# ---------------------------
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# ---------------------------
+# =========================
 # IDE / Editor
-# ---------------------------
+# =========================
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# ---------------------------
-# Testing / Coverage
-# ---------------------------
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Cache / Testing
+# =========================
 .pytest_cache/
+__pycache__/
 .coverage
-coverage.xml
 htmlcov/
 .mypy_cache/
 .ruff_cache/
-
-# ---------------------------
-# Airflow / ETL Tools (if used)
-# ---------------------------
-airflow.db
-airflow-webserver.pid
-logs/
-
-# ---------------------------
-# Keep placeholders if needed
-# ---------------------------
-!.gitkeep
