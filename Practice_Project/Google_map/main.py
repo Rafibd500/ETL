@@ -6,7 +6,7 @@ time.sleep(1)
 driver.maximize_window()
 inputBox = driver.find_element('xpath', '//input[@class="UGojuc fontBodyMedium EmSKud lpggsf "]')
 # inputBox.click()
-input_text = 'restaurant in new york city'
+input_text = 'dentists in New York City, NY, USA'
 inputBox.send_keys(input_text)
 submit = driver.find_element('xpath', '(//button[@aria-label="Search"])[1]')
 submit.click()
